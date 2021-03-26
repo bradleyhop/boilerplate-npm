@@ -3,6 +3,7 @@
         "author": "Bradley Smith",
         "description": "A learning project for npm",
         "keywords": [ "words", "say", "so", "much", "freecodecamp" ],
+        "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
